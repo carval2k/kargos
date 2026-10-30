@@ -1,0 +1,9 @@
+# use this file for specific sensors labels
+
+coretemp_Package_id_0=CPU
+nvme_Composite=nvm
+nvidia=GPU
+nouveau=GPU
+acpitz_temp1=MBd
+acpitz_temp2=Chs
+iwlwifi_1=Chs

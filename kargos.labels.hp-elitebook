@@ -1,0 +1,11 @@
+# use this file for specific sensors labels on HP shits
+
+coretemp_Package_id_0=CPU
+nvme_Composite=nvm
+nvidia=GPU
+nouveau=GPU
+pch_cannonlake=MBd
+acpitz_temp3=MBd
+acpitz_temp1=Csk
+acpitz_temp4=Chi
+acpitz_temp5=Env
