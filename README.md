@@ -1,3 +1,4 @@
+```
 - What is kargos.sh?
 Is a simple bash script used to feed kargos widget on KDE plasma with hardware sensors and some other useful indicators
 
