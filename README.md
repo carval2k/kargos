@@ -3,6 +3,7 @@ Is a simple bash script used to feed kargos widget on KDE plasma with hardware s
 
 - How to use it?
 Place "kargos.sh" and "kargos.labels" on a directory of your preference (such as /opt/utils) and ensure it is executable.
+You should correct "kargos.labels" based on your hardware (use "./kargos.sh --debug" to list what it founds)
 
 - Requirements:
 Nothing special, just pure bash commands, such as awk, grep, lsblk, etc..
